@@ -11,7 +11,7 @@
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
             </sparkle:tags> -->
             <!-- add these lines to force users updating their app. -->
-            <enclosure sparkle:version="1.0.0" sparkle:os="android" />
+            <enclosure sparkle:version="2.0.0" sparkle:os="android" />
         </item>
     </channel>
     <channel>
