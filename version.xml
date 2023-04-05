@@ -7,11 +7,11 @@
             <description>desc</description>
             <pubDate>Sun, 5 Apr 2023 12:00:00 +0000</pubDate>
             <!-- add these lines to force users updating their app. -->
-<!--             <sparkle:tags>
+            <sparkle:tags>
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
-            </sparkle:tags> -->
+            </sparkle:tags>
             <!-- add these lines to force users updating their app. -->
-            <enclosure sparkle:version="2.0.0" sparkle:os="android" />
+            <enclosure sparkle:version="1.0.0" sparkle:os="android" />
         </item>
     </channel>
     <channel>
@@ -21,11 +21,11 @@
             <description>desc</description>
             <pubDate>Sun, 5 Apr 2023 12:00:00 +0000</pubDate>
             <!-- add these lines to force users updating their app. -->
-<!--             <sparkle:tags>
+            <sparkle:tags>
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
-            </sparkle:tags> -->
+            </sparkle:tags>
             <!-- add these lines to force users updating their app. -->
-            <enclosure sparkle:version="1.0.0" sparkle:os="ios" />
+            <enclosure sparkle:version="2.0.0" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
