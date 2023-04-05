@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Ihsan Solusi HRIS - Appcast</title>
+        <item>
+            <title>Version 1.0.0</title>
+            <description>desc</description>
+            <pubDate>Sun, 5 Apr 2023 12:00:00 +0000</pubDate>
+            <!-- add these lines to force users updating their app. -->
+<!--             <sparkle:tags>
+            <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            </sparkle:tags> -->
+            <!-- add these lines to force users updating their app. -->
+            <enclosure sparkle:version="1.0.0" sparkle:os="android" />
+        </item>
+    </channel>
+    <channel>
+        <title>Ihsan Solusi HRIS - Appcast</title>
+        <item>
+            <title>Version 1.0.0</title>
+            <description>desc</description>
+            <pubDate>Sun, 5 Apr 2023 12:00:00 +0000</pubDate>
+            <!-- add these lines to force users updating their app. -->
+<!--             <sparkle:tags>
+            <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            </sparkle:tags> -->
+            <!-- add these lines to force users updating their app. -->
+            <enclosure sparkle:version="1.0.0" sparkle:os="ios" />
+        </item>
+    </channel>
+</rss>
